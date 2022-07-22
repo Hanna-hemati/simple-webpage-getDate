@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  font-family: sans-serif;
+}
+body{
+background-color: rgba(89, 0, 255, 0.15); 
+}
+h1 {
+  background-color: rgba(130, 60, 150, 0.2);
+  color: white;
+  padding: 15px;
+}
+#today{
+    color: rgb(120, 0, 250);
+}
+.center {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+h2 {
+padding: 1rem;
+color: white;
+background-color: rgba(130, 60, 150, 0.2);
+}
