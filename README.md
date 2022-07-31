@@ -1,1 +1,1 @@
-# simple-webpage-getDate
+# simple-webpage-weekDays
